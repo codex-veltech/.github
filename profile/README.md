@@ -1,5 +1,4 @@
-## Hi there 👋
-## This is offical organisation of codex-veltech
+## This is offical organisation of GDSC Veltech
 <!--
 
 **Here are some ideas to get you started:**
